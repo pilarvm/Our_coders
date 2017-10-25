@@ -1,0 +1,66 @@
+* {
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  text-align: left;
+  position: relative;
+  left: 10px;
+}
+span {
+  position: relative;
+  top: 170px;
+  left: 30px;
+}
+.header {
+  width: 500px;
+}
+div hr {
+  height: 5px;
+  width: 110px;
+  position: relative;
+  right: 182px;
+  bottom: 10px;
+  background-color: #000;
+  display: block;
+}
+p {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  margin: 8px;
+  color: #fff;
+  font-weight: bold;
+  float: left;
+}
+.coder1 {
+  background-image: url("../assets/images/image1.jpg");
+  background-size: cover;
+}
+.coder2 {
+  background-image: url("../assets/images/image2.jpg");
+  background-size: cover;
+}
+.coder3 {
+  background-image: url("../assets/images/image3.jpg");
+  background-size: cover;
+}
+.coder4 {
+  background-image: url("../assets/images/image4.jpg");
+  background-size: cover;
+  position: absolute;
+  top: 320px;
+}
+.coder5 {
+  background-image: url("../assets/images/image5.jpg");
+  background-size: cover;
+  position: absolute;
+  top: 320px;
+  left: 225px;
+}
+.coder6 {
+  background-image: url("../assets/images/image6.jpg");
+  background-size: cover;
+  position: absolute;
+  top: 320px;
+  left: 440px;
+}
